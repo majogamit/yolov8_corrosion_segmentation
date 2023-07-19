@@ -1,0 +1,12 @@
+train: C:\Users\Administrator\Intern Code\local_corr\train
+val: C:\Users\Administrator\Intern Code\local_corr\test
+
+nc: 1
+names: ['Corrosion']
+
+roboflow:
+  workspace: cawilai-interns-july-2023
+  project: corrosion-instance-segmentation-sfcpc
+  version: 16
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/cawilai-interns-july-2023/corrosion-instance-segmentation-sfcpc/dataset/16
